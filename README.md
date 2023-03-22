@@ -1,5 +1,5 @@
 # experiências
 
-professora de inglês particular
-auxiliar administrativa
-coordenadora pedagógica de inglês
+  professora de inglês particular
+  auxiliar administrativa
+  coordenadora pedagógica de inglês
