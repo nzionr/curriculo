@@ -1,51 +1,51 @@
-# dados pessoais 
+# Dados pessoais 
 
- nome: nicole zion raspante
-
-
-  data nascimento: 12/08/2003
+ Nome: nicole zion raspante
 
 
-  telefone: 14998088064
+  Data nascimento: 12/08/2003
 
 
-  email: nicole.zionick@gmail.com
+  Telefone: 14998088064
 
 
-  cidade natal: marília-sp
+  Email: nicole.zionick@gmail.com
 
 
-# graduação
-
-  ensino fundamental 1: escola bento de abreu sampaio vidal (concluído)
+  Cidade natal: marília-sp
 
 
-  ensino fundamental 2: colégio esquema único (concluído)
+# Graduação
+
+  Ensino fundamental 1: escola bento de abreu sampaio vidal (concluído)
 
 
-  ensino médio: colégio esquema único (concluído)
+  Ensino fundamental 2: colégio esquema único (concluído)
 
 
-  ensino superior: unimar (cursando análise e desenvolvimento de sistemas)
+  Ensino médio: colégio esquema único (concluído)
+
+
+  Ensino superior: unimar (cursando análise e desenvolvimento de sistemas)
 
 
 
 
-# qualificação
+# Qualificação
 
-  curso avançado de inglês: CCB-EU
-
-
-  curso básico de espanhol: Kultivi
+  Curso avançado de inglês: CCB-EU
 
 
-  curso intermediário de excel, power point e word: Ouro Moderno EAD
+  Curso básico de espanhol: Kultivi
 
 
-  curso básico de marketing digital: Ouro Moderno EAD
+  Curso intermediário de excel, power point e word: Ouro Moderno EAD
 
 
-  curso avançado mídias sociais: Enjoy
+  Curso básico de marketing digital: Ouro Moderno EAD
+
+
+  Curso avançado mídias sociais: Enjoy
 
 
 
